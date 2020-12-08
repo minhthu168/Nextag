@@ -21,8 +21,7 @@ eProject documentation at https://github.com/minhthu168/Newtag/document
 
 ============================
 
-eProject published at https://minhthu168.github.io/Newtag/
-
+eProject published at https://minhthu168.github.io/Nextag/
 ============================
 
 Thank you for spending your time to look at our work.
