@@ -1,2 +1,0 @@
-# Nextag
-group 6
