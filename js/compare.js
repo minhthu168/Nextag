@@ -152,7 +152,7 @@ function displayImages(items) {
     let s = '';
     $.each(items, function (k, v) {
             s = s + '<div class="col-sm-4 image ' + v.type + ' ' +v.brand + '" style = "margin-bottom: 2em">' +
-            '<img src="images\\' + v.link + '" class="img-responsive ep_fade ep_fade_0 card divImage" style="width:100%" alt="Image">' +
+            '<img src="images\\' + v.link + '"class="col-sm-6 col-md-2 img-responsive ep_fade ep_fade_0 card divImage" style="width:100%" alt="Image">' +
             '<p>' + v.name + '</p>' +
              '<p id="cost">'+ v.cost +  '</p>' +
             '<input type="checkbox" class="checkbox mark" name = "product" value = "' + v.id + '">' +
