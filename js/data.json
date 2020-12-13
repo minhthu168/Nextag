@@ -39,7 +39,7 @@
         "cost": "$470",
         "link": "G5.PNG",
         "made": "Italy",
-        "doc":"Coach.pdf"
+        "doc":"Gucci.pdf"
     },
     {
         "id": "G6",
@@ -53,7 +53,7 @@
         "cost": "$930",
         "link": "G6.PNG",
         "made": "Italy",
-        "doc":"Coach.pdf"
+        "doc":"Gucci.pdf"
     },
     {
         "type": "Purse",
@@ -372,7 +372,6 @@
         "size": "11 x 7 x 3.5 inches<br> (length x Height x Width)",
         "color": "Green, red and blue",
         "material": "Baiadera leather",
-        "Strap": "15 inch",
         "cost": "$2,980",
         "link": "G9.PNG",
         "made": "Italy",
@@ -1646,7 +1645,7 @@
         "id": "LM13",
         "name": "Wallet With Logo",
         "brand": "Love Moschino",
-        "description": "<p>Logo Lettering in gold plating on the front, Details in eco-leather, Closure with snap button, Pocket for banknotes, Coin pocket, Four pockets for cards.</p>",
+        "description": "<p>Logo Lettering in gold plating on the front, Details in eco-leather, Closure with snap button, Pocket for banknotes, Coin pocket, Four pockets for cards.</p></p>",
         "size": "4.3 x 1 x 3.5 inches<br>(length x height x width)",
         "color": "Black",
         "material": "Polyester, Polyurethane",
